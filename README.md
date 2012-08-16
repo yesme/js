@@ -1,4 +1,4 @@
-common-js
+js
 =========
 
-Some common Javascript tools that can be reused.
+Some common Javascript libraries that can be reused.
